@@ -13,7 +13,7 @@ class sagar extends StatelessWidget {
       home: Material(
         child: Center(
             child: Container(
-          child: Text('Hello everyone welcome to flutter best of luck'),
+          child: Text('Hello everyone welcome'),
         )),
       ),
     );
